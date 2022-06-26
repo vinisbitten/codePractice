@@ -1,0 +1,11 @@
+Objetivo 1 -
+
+	Identificar os conceitos fundamentais de POO   |✅|
+
+Objetivo 2 -
+
+	Utilizar apropriadamente as técnicas de modelagem e programação OO |Em andamento|
+
+Objetivo 3 -
+
+	Desenvolver aplicações utilizando POO |Falta o básico ainda|

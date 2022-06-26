@@ -1,0 +1,13 @@
+Linguagem -
+
+	Python 3.x (anaconda)
+
+IDE -
+
+	Visual Studio Code
+
+FERRAMENTA DE APRENDIZADO -
+
+	Jupyter Notebooks (anaconda)
+	Discord
+	Google Meets

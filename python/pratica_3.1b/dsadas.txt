@@ -1,0 +1,5 @@
+Título: MyComicList.
+DDescrição: rede social focada em consumidores de comics e mangás, o usuário cadastra e avalia as comics que já leu, podendo também comentar as avaliações de outros usuários.
+Integrantes: Vinícius Bittencourt dos Santos Pagano
+Status: Em desenvolvimento
+Link:
